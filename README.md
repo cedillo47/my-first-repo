@@ -1,5 +1,5 @@
 # my-first-repo
-hello my name is leo.Im from east harlem.
-I dont like sports but I do enjoy live sports 
-events.
+Hello to all. My name is Leonardo Cedillo, I also go by Leo. I enjoy bike riding. One fun fact about myself is that I have riden my bike from 
+washington hights to wall street in under 1 hour.  
+
 
